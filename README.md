@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Phil Ho Combatir 👋</h1>
 
-<!--
-**philingus/philingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software Engineering @ NASA · AI/ML Intern · Hackathon Winner · Researcher · First-Gen CS Major  
+</p>
 
-Here are some ideas to get you started:
+🎓 **Student @ Kean University**  
+B.S. in Computer Science · GPA: 3.8 · Class of 2027  
+💡 Interests: AI/ML, Computer Vision, Edge Computing, Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current Intern @ NASA MSFC**  
+Designing ML models for Human Landing Systems.  
+Improving SLAM and LiDAR segmentation for TRN (Terrain Relative Navigation) success rates.
+
+🏆 **Recent Highlights**  
+- 🥇 1st Place: GMiS National Research Competition (EcoSegNet, 2024)  
+- 🏅 “Top Intern” at MyFitPlate, Fall 2024 Cohort  
+- 🧠 AI/ML Fellow at Cornell Tech  
+- 🥇 1st Place: NosuHack Global Hackathon (Project Pæmon)  
+- 📚 Published researcher in urban AI segmentation using PyTorch and DeepLabV3
+
+🔗 **Links**  
+- [LinkedIn](https://www.linkedin.com/in/philhocombatir/)  
+- [Project Pæmon](https://github.com/philingus/ProjectPaemon)  
+- [EcoSegNet](https://github.com/philingus/EcoSegNet) 
+
+📫 **Contact**  
+`hocombatir@gmail.com`  
+📍 Union, New Jersey  
