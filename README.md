@@ -21,8 +21,6 @@ Improving SLAM and LiDAR segmentation for TRN (Terrain Relative Navigation) succ
 
 🔗 **Links**  
 - [LinkedIn](https://www.linkedin.com/in/philhocombatir/)  
-- [Project Pæmon](https://github.com/philingus/ProjectPaemon)  
-- [EcoSegNet](https://github.com/philingus/EcoSegNet) 
 
 📫 **Contact**  
 `hocombatir@gmail.com`  
