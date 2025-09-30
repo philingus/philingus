@@ -10,7 +10,7 @@ B.S. in Computer Science · GPA: 3.8 · Class of 2027
 
 🔭 **Current Intern @ NASA MSFC**  
 Designing ML models for Human Landing Systems.  
-Improving SLAM and LiDAR segmentation for TRN (Terrain Relative Navigation) success rates.
+Improving SLAM and LiDAR segmentation for TRN (Terrain Relative Navigation).
 
 🏆 **Recent Highlights**  
 - 🥇 1st Place: GMiS National Research Competition (EcoSegNet, 2024)  
